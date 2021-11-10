@@ -1,4 +1,14 @@
-## Hey there, I'm [Sreeram](https://github.com/sreeramcr00) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<a target="_blank">
+  <img align="right" height="210" width="210" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</a>
+
+<h1 align="center">
+  </a>&lt;𝙷𝚎𝚕𝚕𝚘 𝙲𝚘𝚍𝚎𝚛𝚜/&gt;!
+    <p>
+        I am <a href="https://github.com/Khailas12"><b>Sreeram C R <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" width="40px" />
+    </p> 
+  </a>
+</h1>
 
 <br>
 
@@ -19,43 +29,28 @@
 
 ## Reach me out📬 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sreeeram.C.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeram-c-r-1716b61b5/) [![Mail Badge](https://img.shields.io/badge/-sreeramcr00@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sreeramcr00@gmailcom) [![Twitter Badge](https://img.shields.io/badge/-@SreeramCR00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/SreeramCR00)  
+[![Linkedin Badge](https://img.shields.io/badge/Sreeeram_C_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeram-c-r-1716b61b5/) [![Mail Badge](https://img.shields.io/badge/-sreeramcr00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeramcr00@gmailcom) [![Twitter Badge](https://img.shields.io/badge/SreeramCR00-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SreeramCR00)  
 <br>
 
 ## Languages and Tools💻
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-
-<a href="https://www.java.com/en/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"> </a>
-
-<a href="https://https://www.javascript.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
-
-<a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-
-<a href="https://www.css3.info/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://img.icons8.com/color/48/000000/css3.png"> </a>
-
- <a href="https://reactjs.org/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/office/80/000000/react.png"></a>
- 
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://img.icons8.com/color/48/000000/nodejs.png"> </a>
-
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629639614/SeekPng.com_flask-png_8753366_hgzd4p.png"> </a>
-
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
-
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" height ="42px" src="https://dart.dev/assets/tools/android_studio-f176d251c56da3581486c97ffa4a82724151e70465896e577e1a52e7f65fe5ad.svg"> </a>
-
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
-
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/48/000000/postgreesql.png"> </a>
-
-<a href="https://github.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629643172/github_2_njhe9n.svg"> </a>
-
-<a href="https://dashboard.heroku.com/login" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> </a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"> </a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-4B275F?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> </a>
+<a href="https://https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
+<a href="https://www.css3.info/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+"></a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-3A33D1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://dashboard.heroku.com/login" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> </a>
  </a>
-<br />
-<br />
 <br >
 <br>
 
